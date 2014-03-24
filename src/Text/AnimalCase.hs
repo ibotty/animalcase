@@ -1,3 +1,4 @@
+-- |
 -- This Module converts between camelCase and snake_case.
 --
 -- The suffixes specify the base type the functions are working on.
